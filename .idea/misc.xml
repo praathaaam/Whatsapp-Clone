@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Pratham Kapoor/AndroidStudioProjects/WhatsClone/app/src/main/res/drawable/ic_facebook_icon.xml" value="0.2351851851851852" />
+        <entry key="..\:/Users/Pratham Kapoor/AndroidStudioProjects/WhatsClone/app/src/main/res/drawable/ic_google_icon.xml" value="0.2351851851851852" />
+        <entry key="..\:/Users/Pratham Kapoor/AndroidStudioProjects/WhatsClone/app/src/main/res/drawable/ic_whatsapp_icon.xml" value="0.2351851851851852" />
         <entry key="..\:/Users/Pratham Kapoor/AndroidStudioProjects/WhatsClone/app/src/main/res/drawable/ic_whatsappicon.xml" value="0.2351851851851852" />
         <entry key="..\:/Users/Pratham Kapoor/AndroidStudioProjects/WhatsClone/app/src/main/res/layout/activity_sign_up.xml" value="0.28072916666666664" />
       </map>
